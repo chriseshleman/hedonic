@@ -1,0 +1,19 @@
+---
+title: "Hedonic"
+author: "Chris Eshleman"
+date: "11/11/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Pick variables. 
+Transform. 
+Make a model. 
+Check residuals. 
+Run some machine learning on leftovers. 
+Add high-performing leftovers and compare (Anova). 
+
+
